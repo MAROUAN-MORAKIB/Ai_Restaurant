@@ -57,7 +57,7 @@ streamlit run main.py
 ## 📸 Demo
 <img width="1918" height="920" alt="image" src="https://github.com/user-attachments/assets/25e14b5d-164a-4178-9c32-47d36d66fa84" />
 
-Check out the live demo 👉 [Click here](https://ai-restaurant-menu-generator.streamlit.app/)
+[DEMO](https://ai-restaurant-menu-generator.streamlit.app/)
 
 ---
 
