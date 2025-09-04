@@ -55,7 +55,7 @@ streamlit run main.py
 ---
 
 ## 📸 Demo
-*(Add a screenshot or gif of your running app here)*
+<img width="1918" height="920" alt="image" src="https://github.com/user-attachments/assets/25e14b5d-164a-4178-9c32-47d36d66fa84" />
 
 ---
 
