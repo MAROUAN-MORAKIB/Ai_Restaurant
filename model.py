@@ -7,12 +7,8 @@ import streamlit as st
 
 # Assuming the token and endpoint are set in a previous cell
 
-
-# token = st.secrets["OPENAI_API_KEY"]
-# endpoint = st.secrets["OPENAI_BASE_URL"]
-
-token = "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"
-endpoint = "https://openrouter.ai/api/v1"
+token = st.secrets["OPENAI_API_KEY"]
+endpoint = st.secrets["OPENAI_BASE_URL"]
 
 
 # Initialize Langchain's ChatOpenAI with custom base_url and api_key
