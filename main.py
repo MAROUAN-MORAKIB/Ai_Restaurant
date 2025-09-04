@@ -27,11 +27,10 @@ st.markdown(
 cuisine = st.sidebar.text_input("👉 Enter Cuisine Type (e.g., Italian, Chinese, etc.)")
 
 # Secrets
-# UNSPLASH_ACCESS_KEY = st.secrets["UNSPLASH_ACCESS_KEY"]
-# PEXELS_API_KEY = st.secrets["PEXELS_API_KEY"]
+UNSPLASH_ACCESS_KEY = st.secrets["UNSPLASH_ACCESS_KEY"]
+PEXELS_API_KEY = st.secrets["PEXELS_API_KEY"]
 
-PEXELS_API_KEY = "tal9pr67wItKgEeUte5itgIPINBLADpTdffxG6GlJ644qMbf3t3WNkhu"  
-UNSPLASH_ACCESS_KEY = "vIKeT7IGLK9db2bp1hxkseS-v5kQgHXrdw60EQh9Qow"
+
 
 
 # --- Image fetcher ---
