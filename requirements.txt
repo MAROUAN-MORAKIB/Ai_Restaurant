@@ -1,0 +1,6 @@
+streamlit==1.37.0
+requests==2.31.0
+
+# LangChain + OpenAI adapter
+langchain==0.2.14
+langchain-openai==0.1.22
